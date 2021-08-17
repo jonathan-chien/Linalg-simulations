@@ -1,1 +1,1 @@
-# Linalg-simulations
+# Simulations
